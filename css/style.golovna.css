@@ -316,7 +316,7 @@ display: none;
 
 @media(max-width: 500px) {
     body {
-        background-image: url(../images/fon_mob.PNG);
+        background-image: url(../images/fon_mob2.PNG);
     }
     .footer__inner .footer__contacts {
         img {
